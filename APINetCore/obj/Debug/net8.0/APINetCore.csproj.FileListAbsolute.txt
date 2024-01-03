@@ -24,3 +24,10 @@
 /home/willians/workspace/APINETCore/APINETCore/APINetCore/obj/Debug/net8.0/APINetCore.pdb
 /home/willians/workspace/APINETCore/APINETCore/APINetCore/obj/Debug/net8.0/APINetCore.genruntimeconfig.cache
 /home/willians/workspace/APINETCore/APINETCore/APINetCore/obj/Debug/net8.0/ref/APINetCore.dll
+/home/willians/workspace/APINETCore/APINETCore/APINetCore/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/willians/workspace/APINETCore/APINETCore/APINetCore/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/willians/workspace/APINETCore/APINETCore/APINetCore/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/willians/workspace/APINETCore/APINETCore/APINetCore/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/willians/workspace/APINETCore/APINETCore/APINetCore/obj/Debug/net8.0/APINetCore.csproj.AssemblyReference.cache
+/home/willians/workspace/APINETCore/APINETCore/APINetCore/obj/Debug/net8.0/APINetCore.MvcApplicationPartsAssemblyInfo.cs
+/home/willians/workspace/APINETCore/APINETCore/APINetCore/obj/Debug/net8.0/APINetCore.csproj.CopyComplete
